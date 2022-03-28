@@ -1,4 +1,4 @@
-# Flexbox
+npm install# Flexbox
 
 Установите зависимости:
 
